@@ -1,0 +1,27 @@
+{
+  "name": "susanna",
+  "version": "1.0.0",
+  "description": "React library for KaboomJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LumisDev/susanna.git"
+  },
+  "keywords": [
+    "kaboom",
+    "react"
+  ],
+  "author": "B. Chabiene",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LumisDev/susanna/issues"
+  },
+  "homepage": "https://github.com/LumisDev/susanna#readme",
+  "dependencies": {
+    "kaboom": "^3000.1.17",
+    "react": "^18.2.0"
+  }
+}
